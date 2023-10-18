@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\bin\Debug\net6.0\Projeto-Console-NETFramework.exe
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\bin\Debug\net6.0\Projeto-Console-NETFramework.deps.json
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\bin\Debug\net6.0\Projeto-Console-NETFramework.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\bin\Debug\net6.0\Projeto-Console-NETFramework.dll
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\bin\Debug\net6.0\Projeto-Console-NETFramework.pdb
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\obj\Debug\net6.0\Projeto-Console-NETFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\obj\Debug\net6.0\Projeto-Console-NETFramework.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\obj\Debug\net6.0\Projeto-Console-NETFramework.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\obj\Debug\net6.0\Projeto-Console-NETFramework.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\obj\Debug\net6.0\Projeto-Console-NETFramework.dll
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\obj\Debug\net6.0\refint\Projeto-Console-NETFramework.dll
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\obj\Debug\net6.0\Projeto-Console-NETFramework.pdb
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\obj\Debug\net6.0\Projeto-Console-NETFramework.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\Concurso TI\NET\Projeto-Console-NETFramework\obj\Debug\net6.0\ref\Projeto-Console-NETFramework.dll
